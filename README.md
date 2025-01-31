@@ -1,3 +1,4 @@
+
 # Teclado-Mortal
 Este juego trata de escribir las palabras que van apareciendo sin equivocarte y lo más rápido posible para no perder, con el objetivo de practicar tu mecanografía. Este juego esta desarrollado por el equipo mecanomaníacas:
 
@@ -28,3 +29,11 @@ Comenzamos a crear este documento incluyendo todos sus detalles.
 [![image.png](https://i.postimg.cc/Jzffsq7X/image.png)](https://postimg.cc/w1kfPDmx)
 
  - **Día 30**
+ Nos encontramos con el problema de que los peces no desaparecían y tampoco detectaban la respuesta para eliminar el pez, nos dimos cuenta de que esto ocurría porque había un espacio delante de la palabra y por ello añadimos un espacio a la respuesta para que se pudiera corroborar que la respuesta estaba bien y eliminar el pez.
+ [![image.png](https://i.postimg.cc/tC027zxF/image.png)](https://postimg.cc/t75hMWDg)
+ 
+ - **Día 31**
+ Hoy hemos terminado de solucionar el problema de la clase anterior, hemos añadido un sonido para cuando los peces lleguen al final sin haber obtenido una respuesta, y en consecuencia, que se pare todo el juego. Además hemos empezado a crear una lista con las coordenadas de los peces para eliminar la sobreposición entre ellos.
+ [![image.png](https://i.postimg.cc/FKJx9dHT/image.png)](https://postimg.cc/JyMXxhJX)
+ [![image.png](https://i.postimg.cc/gJFHrzwm/image.png)](https://postimg.cc/B8pKVGcV)
+ 
