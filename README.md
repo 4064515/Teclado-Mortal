@@ -44,3 +44,6 @@ La lista que comenzamos a crear el día anterior nos ha servido para visualizar 
 [![image.png](https://i.postimg.cc/hGLD0Dz0/image.png)](https://postimg.cc/4K3RfT1K)
 [![image.png](https://i.postimg.cc/1XtyPDWW/image.png)](https://postimg.cc/bDK79Sfb)
  
+ - **Día 13**
+Hoy terminamos el juego poniendo game over cuando pierdes el juego.
+[![image.png](https://i.postimg.cc/134hVT75/image.png)](https://postimg.cc/68s1DHND)
